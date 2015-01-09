@@ -1,3 +1,6 @@
 h1 {color: #10CAE3;}
 p {color: #5f5f5f;}
 h2 {color: #0DA6BA;}
+a:link {color: #0DA6BA;text-decoration: none;}
+a:visited {color: #32DBDB;text-decoration: none;}
+a:hover {color: #0B8999;text-decoration: none;}
