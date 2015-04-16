@@ -2,6 +2,6 @@ body {background-color: black;}
 h1 {color: #10CAE3; font-weight: bold; text-align: center;}
 p {color: white;}
 h2 {color: #0DA6BA;}
+a:visited {color: #32DBDB;/*text-decoration: none;*/}
 a:link {color: #56E39A;/*text-decoration: underline;*/}
 a:hover {color: #0B8999;/*text-decoration: none;*/}
-a:visited {color: #32DBDB;/*text-decoration: none;*/}
