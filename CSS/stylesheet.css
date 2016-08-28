@@ -1,4 +1,4 @@
-body {background-color: black;}
+body {background-color: black; align: center;}
 h1 {color: #10CAE3; font-weight: bold; text-align: center;}
 p {color: white;}
 h2 {color: #0DA6BA;}
@@ -7,9 +7,6 @@ h2 {color: #0DA6BA;}
 }
 .idc-c-t-inner{
 	color: #00FFFF;
-}
-#idc-container{
-	margin: center;
 }
 #idc-commentcount_label{
 	color: #56E39A;
