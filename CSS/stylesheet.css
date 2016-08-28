@@ -11,13 +11,7 @@ h2 {color: #0DA6BA;}
 .idc-v-total{
 	color: #00FFFF;
 }
-em.idc-time{
-	color: #10CAE3;
-}
-.idc-time{
-	color: #10CAE3;
-}
-.IDCommentTime{
+anchor.IDCommentTime{
 	color: #10CAE3;
 }
 #idc-container.idc{
