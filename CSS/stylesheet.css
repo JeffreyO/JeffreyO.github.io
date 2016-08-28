@@ -9,7 +9,7 @@ h2 {color: #0DA6BA;}
 	color: #00FFFF;
 }
 #idc-container{
-	horizontal-align: center;
+	position: center;
 }
 #idc-commentcount_label{
 	color: #56E39A;
