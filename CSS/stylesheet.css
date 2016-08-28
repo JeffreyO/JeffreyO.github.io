@@ -14,7 +14,10 @@ h2 {color: #0DA6BA;}
 em.idc-time{
 	color: #10CAE3;
 }
-a.idc-time{
+.idc-time{
+	color: #10CAE3;
+}
+.IDCommentTime{
 	color: #10CAE3;
 }
 #idc-container.idc{
